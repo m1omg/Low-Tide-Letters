@@ -1,0 +1,21 @@
+Use case: stylized-concept
+Asset type: icon sheet for the menus of a hand-drawn RPG
+Subject: sixteen separate small icons in a strict grid of 4 rows x 4 columns, one icon per cell, reading order left to right and top to bottom. Each icon is a single object drawn from the front, centred in its cell, roughly the same size as the others, with wide empty space around it and nothing touching its neighbours.
+Cell 1: an open paper cone of chips (french fries), cream paper, golden chips.
+Cell 2: a small white tub of mushy peas with a wooden fork in it.
+Cell 3: a pale pickled egg in a small glass jar of vinegar.
+Cell 4: a paper bag of crispy batter scraps.
+Cell 5: a battered tartan vacuum flask of tea with its cup on top.
+Cell 6: a pink and white stick of seaside rock sweet in a twist of cellophane.
+Cell 7: a torn page of a tide table: a page of ruled paper with wavy pencil squiggles for rows.
+Cell 8: a square darned patch of oatmeal knitted wool with visible cross-stitch mending.
+Cell 9: a single bright orange shoelace coiled in a loose loop.
+Cell 10: a home-made medal: a pickled egg shape on a red ribbon.
+Cell 11: a small round enamel badge, cream with a plain circle, hanging on a pin.
+Cell 12: a second-class postage stamp with perforated edges, plain reddish brown, no picture.
+Cell 13: a single grey and white seagull feather.
+Cell 14: a round pearl button with four stitch holes, faint rainbow sheen.
+Cell 15: a small printed paper slip curling at one end, blank, pearl white.
+Cell 16: a seaside postcard seen from the back, cream, with a stamp in the corner and wavy squiggles where the handwriting would be.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.

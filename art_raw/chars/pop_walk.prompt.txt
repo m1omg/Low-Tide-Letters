@@ -1,0 +1,14 @@
+Use case: stylized-concept
+Asset type: 2D top-down RPG character walking sprite sheet
+Subject: the SAME character drawn 12 times in a strict grid of 4 rows x 3 columns with equal-sized cells. Grown-up proportions for this cute style, about 3 heads tall, clearly taller and heavier than a child. The character is Pop, a 74-year-old fisherman grandfather: tall and stooped with very big hands, a bushy white moustache, kind crinkled dot eyes, a navy blue fisherman's cap; an oatmeal cream cable-knit jumper with one darned patch on the elbow; brown corduroy trousers held up by red braces; soft tartan slippers worn outdoors; a small screwdriver tucked behind his right ear.
+Row 1: facing the viewer (front view), 3 walking frames: left foot forward, standing neutral, right foot forward.
+Row 2: facing LEFT (side view), 3 walking frames.
+Row 3: facing RIGHT (side view), 3 walking frames.
+Row 4: facing AWAY from the viewer (back view), 3 walking frames.
+Composition: every figure the same size, full body from head to feet, centered in its cell, feet on the same baseline within each row, generous empty space between figures, nothing overlapping, identical outfit and colors in every frame.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, ground shadows, floor, scenery, extra objects, extra characters.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: portrait orientation, aspect ratio 3:4 (taller than wide).

@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: character expression sheet for RPG dialogue portraits
+Subject: six bust portraits (head and shoulders) of the SAME character in a strict grid of 2 rows x 3 columns with equal-sized cells, reading order left to right, top to bottom. The character is Odo, a stocky round-faced 11-year-old boy: warm brown skin, black hair buzzed short, thick eyebrows, a gap between his front teeth, bright orange foam life vest with white buckles over a navy-and-white striped top, a red whistle on a lanyard. Same outfit, same hair, same colors, same scale and same framing in all six cells; only the facial expression and small pose details change.
+Cell 1: neutral: cheerful and alert.
+Cell 2: boast: chin up, eyes closed proudly, fist on his chest.
+Cell 3: grin: huge gap-toothed grin.
+Cell 4: scared: teeth clenched, sweating, eyes darting.
+Cell 5: quiet: looking down, no grin, small and thoughtful.
+Cell 6: teary grin: grinning bravely with tears in his eyes.
+Composition: each bust centered in its cell, facing the viewer in three-quarter front view, generous empty space between the busts, nothing overlapping, shoulders cropped softly at the bottom of each bust.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, frames, backgrounds, scenery, speech bubbles, extra objects, extra characters.

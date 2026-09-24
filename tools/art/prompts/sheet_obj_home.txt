@@ -1,0 +1,14 @@
+Use case: stylized-concept
+Asset type: prop sheet for the maps of a top-down RPG
+Subject: nine separate objects arranged in a strict grid of 3 rows x 3 columns, one object per cell, reading order left to right and top to bottom. Classic JRPG three-quarter top-down view: every object seen slightly from above and from the front, upright, complete from top to bottom. Wide empty space between the objects, nothing touching or overlapping its neighbours, every object drawn as a single complete piece. Relative sizes roughly as described (the number of tiles tells you how wide it is compared to the others). 
+Cell 1: a child's single bed, 2 tiles wide, seen from the front and slightly above: wooden frame, a patchwork quilt in faded teal and cream, one pillow.
+Cell 2: a small square wooden kitchen table, 2 tiles wide, with a cream oilcloth cover and one chair tucked in at the front.
+Cell 3: a kitchen counter run, 3 tiles wide: a cream cupboard base with a wooden worktop, a small sink with a tap at the left and a kettle at the right.
+Cell 4: a wall coat hook board, 1 tile wide: a varnished wooden board with three brass hooks, one hook empty, a cream scarf with a red stripe hanging from another.
+Cell 5: a low wooden bookshelf, 2 tiles wide, two shelves of leaning books in faded pastel covers, a radio part and a jar on the top.
+Cell 6: a fish-and-chip shop serving counter, 3 tiles wide: stainless steel front, a glass heated display on top, a bottle of vinegar and a stack of paper wrappers.
+Cell 7: a chip-shop deep fryer, 2 tiles wide: a stainless steel double fryer with a hinged lid, a wire basket, a hanging wire scoop, and a curl of steam.
+Cell 8: a hand-painted wooden shop sign board lying flat on the ground face-down, 2 tiles wide, plain back planks showing, one corner chipped.
+Cell 9: a sash window, 1 tile wide, seen from inside: a white painted frame with four panes showing grey sky, a dented tin can standing on the inner sill and a white string leading from the can out of the picture to the right.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.

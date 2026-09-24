@@ -1,0 +1,25 @@
+Use case: stylized-concept
+Asset type: icon sheet for the menus of a hand-drawn RPG
+Subject: sixteen separate small icons in a strict grid of 4 rows x 4 columns, one icon per cell, reading order left to right and top to bottom. Each icon is a single object drawn from the front, centred in its cell, roughly the same size as the others, with wide empty space around it and nothing touching its neighbours.
+Cell 1: a jagged shard of frosted sea glass, deep red.
+Cell 2: a jagged shard of frosted sea glass, cornflower blue.
+Cell 3: a jagged shard of frosted sea glass, warm amber.
+Cell 4: a jagged shard of frosted sea glass, leaf green.
+Cell 5: a smooth rounded tumbled pebble of frosted sea glass, deep red, with a soft highlight.
+Cell 6: a smooth rounded tumbled pebble of frosted sea glass, cornflower blue, with a soft highlight.
+Cell 7: a smooth rounded tumbled pebble of frosted sea glass, warm amber, with a soft highlight.
+Cell 8: a smooth rounded tumbled pebble of frosted sea glass, leaf green, with a soft highlight.
+Cell 9: a dull heavy grey beach pebble, egg shaped, with a faint dark seam.
+Cell 10: a dented tin can with a loop of white string tied through a hole near its rim.
+Cell 11: a postage stamp with perforated edges, pale blue, showing a tiny lighthouse.
+Cell 12: a small pair of cartoon lungs puffing out two curls of breath, pale pink, to mean winded.
+Cell 13: a hot little storm cloud with two cross eyebrows and one zigzag, red-orange, to mean angry.
+Cell 14: a soft turquoise wave curl with three calm sparkles above it, to mean soothed.
+Cell 15: a mouth closed by a neat criss-cross of white string, to mean unable to speak.
+Cell 16: a small round pot lid held up like a shield with one string handle, cream and grey, to mean protected.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: square, aspect ratio 1:1.

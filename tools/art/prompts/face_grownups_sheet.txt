@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: character expression sheet for RPG dialogue portraits
+Subject: 6 bust portraits (head and shoulders) in a strict grid of 2 rows x 3 columns with equal-sized cells, reading order left to right, top to bottom. TWO different characters. The TOP row is all the same woman: Mum, a 41-year-old district nurse, sandy blonde hair in a claw clip with escaping strands, tired kind face, lilac nurse's tunic under a grey raincoat collar. The BOTTOM row is all the same man: Mr Brill, a broad 45-year-old chip-shop owner, warm brown skin, bald, big black moustache, folded white paper hat, white apron over a red polo shirt. Grown-up proportions. Same outfit, same hair, same colors, same scale and same framing in every cell; only the facial expression and small pose details change.
+Cell 1: Mum, neutral: pleasant, a little distracted, eyebrows relaxed.
+Cell 2: Mum, soft: warm gentle smile, eyes half closed, head tilted.
+Cell 3: Mum, worried: small frown, lips pressed, eyes glancing aside.
+Cell 4: Mr Brill, neutral: friendly, eyebrows up, slight smile.
+Cell 5: Mr Brill, booming: mouth wide open in a huge laugh, eyes shut, head thrown back.
+Cell 6: Mr Brill, flat: no smile at all, moustache level, eyes tired and far away.
+Composition: each bust centered in its cell, facing the viewer in three-quarter front view, generous empty space between the busts, nothing overlapping, shoulders cropped softly at the bottom of each bust.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, frames, backgrounds, scenery, speech bubbles, extra objects, extra characters.

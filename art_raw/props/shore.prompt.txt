@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Asset type: prop sheet for the maps of a top-down RPG
+Subject: nine separate objects arranged in a strict grid of 3 rows x 3 columns, one object per cell, reading order left to right and top to bottom. Classic JRPG three-quarter top-down view: every object seen slightly from above and from the front, upright, complete from top to bottom. Wide empty space between the objects, nothing touching or overlapping its neighbours, every object drawn as a single complete piece. Relative sizes roughly as described (the number of tiles tells you how wide it is compared to the others). Cell 9 must be drawn clearly taller than everything else on the sheet.
+Cell 1: a terraced seaside house front, 4 tiles wide: two storeys, grey slate roof, pebble-dashed cream wall, a front door, three sash windows of which one upstairs is lit warm yellow, and a dented tin can standing on a window sill.
+Cell 2: an identical terraced house front, 4 tiles wide, but empty: every window dark, curtains gone, a blank estate agent's board on a post bolted to the wall, paint peeling.
+Cell 3: a fish-and-chip shop front, 4 tiles wide: a red and cream striped awning, a wide steamed-up window with a warm glow behind it, a propped-open door, a blank menu board beside the door.
+Cell 4: a British pillar postbox, 1 tile wide: a fat round red cast-iron pillar with a horizontal letter slot and a domed top. The brightest, reddest thing on the sheet.
+Cell 5: a stack of wooden-and-net lobster pots, 2 tiles wide: three curved slatted traps piled and tangled with a few orange floats and rope.
+Cell 6: a weathered wooden slatted park bench, 2 tiles wide, with black iron ends, paint flaking.
+Cell 7: a wooden sea groyne, 3 tiles wide: a low line of tarred upright timber posts joined by planks, green weed and barnacles on the lower half.
+Cell 8: a small wooden rowing boat turned upside down, 3 tiles wide, its peeling pale blue painted hull uppermost, resting on the ground.
+Cell 9: a lighthouse, 3 tiles wide and very tall (about twice as tall as the houses are): a tapering white tower with one horizontal teal band, a glazed lamp room with a railing at the top, and a small arched oil-store door at its foot.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: square, aspect ratio 1:1.

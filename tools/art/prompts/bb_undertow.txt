@@ -1,0 +1,6 @@
+Use case: stylized-concept
+Asset type: battle background for a turn-based RPG (the characters are drawn by the game on top of it)
+Subject: the inside of a lighthouse that goes downward instead of up, seen from within: a curved teal-painted wall running round the picture, a spiral stair edge, a brass porthole, coils of white string on hooks; warm amber lamp light welling up from below so the lower part glows and the top is deep teal shadow. The lower third is a plain empty floor band.
+Composition: a single complete illustration in 4:3 landscape format, filling the whole picture to the edges, no border and no frame, no empty margin, one clear focal point.
+Style/medium: hand-drawn coloured pencil and ink storybook illustration on warm cream paper, slightly wobbly dark pencil outlines, soft pastel colours with visible pencil hatching and waxy crayon grain, flat gentle lighting with no cast shadows, tender and a little lonely. Children are drawn cute with big heads, simple dot eyes and rosy crayon cheeks.
+Avoid: any text, letters, numbers, labels, watermarks, signatures, grid lines, borders, frames, speech bubbles, photorealism, 3D rendering, anime style, glossy digital shading.

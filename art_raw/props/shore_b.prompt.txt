@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Asset type: prop sheet for the maps of a top-down RPG
+Subject: nine separate objects arranged in a strict grid of 3 rows x 3 columns, one object per cell, reading order left to right and top to bottom. Classic JRPG three-quarter top-down view: every object seen slightly from above and from the front, upright, complete from top to bottom. Wide empty space between the objects, nothing touching or overlapping its neighbours, every object drawn as a single complete piece. Relative sizes roughly as described (the number of tiles tells you how wide it is compared to the others). 
+Cell 1: a washing line between two posts, 3 tiles wide: two wooden posts, a slack rope and four pegged items of faded laundry, a shirt and towels.
+Cell 2: a seaside street lamp, 1 tile wide and tall: a dark green cast-iron post with a curved top and a small glass lantern, unlit.
+Cell 3: a stack of wooden fish crates, 2 tiles wide: three pale slatted boxes piled up, one with a few floats in it.
+Cell 4: a wooden rowing boat the right way up, 3 tiles wide, resting on the ground: peeling pale blue and cream paint, two oars inside, a coil of rope.
+Cell 5: a big sea boulder, 2 tiles wide: a rounded grey rock with dark cracks, dull green weed at its base.
+Cell 6: a very small rock pool, 1 tile wide, seen from above: a shallow dip of dark rock holding clear water, a tiny anemone and two pebbles, very flat.
+Cell 7: a jam jar, 1 tile wide: a glass jar with a screw lid standing on the ground, half full of pieces of frosted sea glass in red, blue, amber and green.
+Cell 8: a biscuit tin, 1 tile wide: a battered round tin with a dented lid and a faded floral pattern, standing closed.
+Cell 9: an outdoor workbench of radio parts, 2 tiles wide: a wooden trestle bench covered in valves, coils of wire, a half-opened radio chassis and a screwdriver.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: square, aspect ratio 1:1.

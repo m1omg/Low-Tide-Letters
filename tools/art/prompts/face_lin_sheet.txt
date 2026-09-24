@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: character expression sheet for RPG dialogue portraits
+Subject: six bust portraits (head and shoulders) of the SAME character in a strict grid of 2 rows x 3 columns with equal-sized cells, reading order left to right, top to bottom. The character is Lin, a tall thin 13-year-old girl: pale brown skin, very long black plait over one shoulder tied with a moss-green ribbon, round wire glasses, a pencil behind her ear, navy school cardigan over a white collared shirt. Same outfit, same hair, same colors, same scale and same framing in all six cells; only the facial expression and small pose details change.
+Cell 1: neutral: composed and attentive.
+Cell 2: stern: one eyebrow raised, pointing a pencil at the viewer.
+Cell 3: fond: soft warm smile, head slightly tilted.
+Cell 4: tired: glasses slipping down her nose, shadows under her eyes, drooping shoulders.
+Cell 5: angry: flushed cheeks, frown, her plait bristling.
+Cell 6: relieved: eyes closed, shoulders dropped, gentle exhale smile.
+Composition: each bust centered in its cell, facing the viewer in three-quarter front view, generous empty space between the busts, nothing overlapping, shoulders cropped softly at the bottom of each bust.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, frames, backgrounds, scenery, speech bubbles, extra objects, extra characters.

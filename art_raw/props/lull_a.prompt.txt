@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Asset type: prop sheet for the maps of a top-down RPG
+Subject: nine separate objects arranged in a strict grid of 3 rows x 3 columns, one object per cell, reading order left to right and top to bottom. Classic JRPG three-quarter top-down view: every object seen slightly from above and from the front, upright, complete from top to bottom. Wide empty space between the objects, nothing touching or overlapping its neighbours, every object drawn as a single complete piece. Relative sizes roughly as described (the number of tiles tells you how wide it is compared to the others). Cell 2 must be drawn clearly the tallest object on the sheet.
+Cell 1: a rock pool, 2 tiles wide: a shallow bowl of dark tidal rock filled with glowing turquoise water, one limpet on the rim, a soft glow rising from the water.
+Cell 2: a cliff face of post office pigeonholes, 3 tiles wide and very tall: a wall of square wooden sorting compartments built into pale rock, most of them stuffed with cream envelopes, some envelopes spilling out.
+Cell 3: a single free-standing pigeonhole sorting bin, 1 tile wide: a small four-compartment wooden sorting box on short legs, drawn in plain neutral cream with no strong colour, one envelope in a slot.
+Cell 4: a canvas mail sack, 1 tile wide: a fat cream canvas sack tied with rope, bulging with envelopes, leaning slightly.
+Cell 5: a stamp flower, 1 tile wide: a single flower on a green stem whose petals are five postage stamps with perforated edges, drawn white with only pencil outlines so it carries no colour, a round button centre and two leaves.
+Cell 6: a red pillar postbox half sunk into sand at a tilt, 1 tile wide, with two little hermit-crab eyestalks and one orange claw poking out of the letter slot.
+Cell 7: a brass letter-flap door set into rock, 2 tiles wide: a low arched wooden door in a pale rock face with a big polished brass letter flap in the middle.
+Cell 8: a pile of loose envelopes and letters heaped on the ground, 1 tile wide, cream and pale blue, some open, some sealed.
+Cell 9: a driftwood post, 1 tile wide: a weathered wooden post standing upright with a dented tin can nailed to the top of it and a white string tied to the can.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: square, aspect ratio 1:1.

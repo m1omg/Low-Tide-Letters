@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A Sketchbook Story</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="stage">
+    <canvas id="game" width="1536" height="1152" tabindex="0" aria-label="Game screen"></canvas>
+  </div>
+  <!-- invisible text that makes the browser fetch both fonts before the canvas needs them -->
+  <div id="font-warmup" aria-hidden="true"><span class="f-body">abc</span><span class="f-title">abc</span></div>
+  <noscript><p class="noscript">This game needs JavaScript.</p></noscript>
+
+  <!-- The list below is generated: run "node tools/build.js" after adding or removing script files. -->
+  <!-- BUILD:SCRIPTS:START -->
+  <script src="js/core/boot.js"></script>
+  <script src="js/core/util.js"></script>
+  <script src="js/core/input.js"></script>
+  <script src="js/core/assets.js"></script>
+  <script src="js/core/audio.js"></script>
+  <script src="js/core/gfx.js"></script>
+  <script src="js/core/text.js"></script>
+  <script src="js/core/ui.js"></script>
+  <script src="js/core/state.js"></script>
+  <script src="js/core/scene.js"></script>
+  <script src="js/core/touch.js"></script>
+  <script src="js/map/entities.js"></script>
+  <script src="js/map/interpreter.js"></script>
+  <script src="js/map/map_scene.js"></script>
+  <script src="js/battle/party.js"></script>
+  <script src="js/battle/battle_logic.js"></script>
+  <script src="js/battle/battle_ai.js"></script>
+  <script src="js/battle/battle_ui.js"></script>
+  <script src="js/battle/battle_scene.js"></script>
+  <script src="js/scenes/title_scene.js"></script>
+  <script src="js/scenes/menu_scene.js"></script>
+  <script src="js/scenes/gameover_scene.js"></script>
+  <script src="js/scenes/ending_scene.js"></script>
+  <script src="js/scenes/controls_scene.js"></script>
+  <script src="js/scenes/custom_ui.js"></script>
+  <script src="js/scenes/save_scene.js"></script>
+  <script src="js/scenes/shop_scene.js"></script>
+  <script src="js/data/strings.js"></script>
+  <script src="js/data/terrains.js"></script>
+  <script src="js/data/objects.js"></script>
+  <script src="js/data/speakers.js"></script>
+  <script src="js/data/actors.js"></script>
+  <script src="js/data/skills.js"></script>
+  <script src="js/data/items.js"></script>
+  <script src="js/data/enemies.js"></script>
+  <script src="js/data/troops.js"></script>
+  <script src="js/data/common_events.js"></script>
+  <script src="js/data/common_events_finale.js"></script>
+  <script src="js/data/confessions.js"></script>
+  <script src="js/data/credits.js"></script>
+  <script src="js/data/endings.js"></script>
+  <script src="js/data/system.js"></script>
+  <script src="js/data/manifest.js"></script>
+  <script src="js/data/maps/blare_reef.js"></script>
+  <script src="js/data/maps/brills_chippy.js"></script>
+  <script src="js/data/maps/harbour_row.js"></script>
+  <script src="js/data/maps/memory_rocks.js"></script>
+  <script src="js/data/maps/pearl_bed.js"></script>
+  <script src="js/data/maps/shingle_beach.js"></script>
+  <script src="js/data/maps/slack_water.js"></script>
+  <script src="js/data/maps/sorting_shallows.js"></script>
+  <script src="js/data/maps/test_map.js"></script>
+  <script src="js/data/maps/test_room.js"></script>
+  <script src="js/data/maps/tide_steps.js"></script>
+  <script src="js/data/maps/undertow_light.js"></script>
+  <script src="js/data/maps/wren_house.js"></script>
+  <script src="js/main.js"></script>
+  <!-- BUILD:SCRIPTS:END -->
+</body>
+</html>

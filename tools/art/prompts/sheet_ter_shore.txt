@@ -1,0 +1,14 @@
+Use case: stylized-concept
+Asset type: ground material swatch sheet for a top-down RPG
+Subject: a strict grid of 3 rows x 3 columns of equal square swatches of flat ground material, separated by thin white gutters, reading order left to right and top to bottom. Each swatch shows ONE material seen straight down from directly above, completely flat, filling its whole square evenly right up to the edge of the swatch; no perspective, no horizon, no objects lying on it, no edges or corners of the material. A regular pattern shows at least three full repetitions across its swatch.
+Cell 1: grey seaside cobblestones, rounded uneven stones in muted slate and warm grey with pale sandy mortar between them.
+Cell 2: a scruffy verge of coarse seaside grass, washed-out sage green with a few paler dry tufts.
+Cell 3: shingle beach: small flat pebbles in warm grey, oatmeal and dull brown, packed close together.
+Cell 4: wet rippled sand, pale grey-brown with shallow ripple lines and a faint wet sheen, a few tiny shell fragments.
+Cell 5: flat tidal rock, a pale grey-blue rock shelf with hairline cracks, dull green weed in the cracks and small round limpets.
+Cell 6: a rough dark cliff face seen from above, angular broken slate-grey rock, deep shadowed cracks, much darker and coarser than the flat tidal rock.
+Cell 7: cold grey-blue sea water with small choppy pencil-drawn wavelets and pale foam flecks, opaque, nothing visible underneath.
+Cell 8: worn indoor floorboards of pale honey-brown wood running top to bottom, four boards across the swatch, visible grain and dark seams between boards.
+Cell 9: a painted interior plaster wall, flat cream with a faint pink undertone, gently mottled crayon texture and a few tiny hairline cracks.
+Style/medium: hand-drawn coloured pencil and ink texture from a child's sketchbook, visible pencil hatching and waxy crayon grain, soft pastel colours, wobbly hand-drawn detail lines. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, perspective, horizon, cast shadows, objects lying on the ground, characters.

@@ -1,0 +1,110 @@
+[
+ {
+  "name": "props/lull_c",
+  "prompt_file": "tools/art/prompts/sheet_obj_lull_c.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "terrain/deep",
+  "prompt_file": "tools/art/prompts/sheet_ter_deep.txt",
+  "aspect": "square",
+  "transparent": false
+ },
+ {
+  "name": "chars/mum_walk",
+  "prompt_file": "tools/art/prompts/char_mum_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "chars/mr_brill_walk",
+  "prompt_file": "tools/art/prompts/char_mr_brill_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "faces/pop_sheet",
+  "prompt_file": "tools/art/prompts/face_pop_sheet.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "faces/grownups_sheet",
+  "prompt_file": "tools/art/prompts/face_grownups_sheet.txt",
+  "aspect": "landscape",
+  "transparent": true
+ },
+ {
+  "name": "enemies/blank_postcard",
+  "prompt_file": "tools/art/prompts/en_blank_postcard.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/overdue_notice",
+  "prompt_file": "tools/art/prompts/en_overdue_notice.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "enemies/chain_letter",
+  "prompt_file": "tools/art/prompts/en_chain_letter.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "enemies/static",
+  "prompt_file": "tools/art/prompts/en_static.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "chars/towns_a_walk",
+  "prompt_file": "tools/art/prompts/char_towns_a_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "chars/towns_b_walk",
+  "prompt_file": "tools/art/prompts/char_towns_b_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "icons/glass",
+  "prompt_file": "tools/art/prompts/sheet_icon_glass.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "bb/pearl_bed",
+  "prompt_file": "tools/art/prompts/bb_pearl_bed.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/nobody_leaves",
+  "prompt_file": "tools/art/prompts/cg_nobody_leaves.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/the_rocks",
+  "prompt_file": "tools/art/prompts/cg_the_rocks.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/not_yet",
+  "prompt_file": "tools/art/prompts/cg_not_yet.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/pearl_calm",
+  "prompt_file": "tools/art/prompts/cg_pearl_calm.txt",
+  "aspect": "landscape",
+  "transparent": false
+ }
+]

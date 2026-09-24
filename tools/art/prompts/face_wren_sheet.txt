@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: character expression sheet for RPG dialogue portraits
+Subject: six bust portraits (head and shoulders) of the SAME character in a strict grid of 2 rows x 3 columns with equal-sized cells, reading order left to right, top to bottom. The character is Wren, a 12-year-old girl: sandy-blonde hair in a short messy stubby up-ponytail pinned with a wooden clothes-peg, one loose strand over her left eye, round face, freckles across the nose, a small beige plaster on her chin, too-big teal duffel coat with wooden toggles, cream scarf with one red stripe. Same outfit, same hair, same colors, same scale and same framing in all six cells; only the facial expression and small pose details change.
+Cell 1: neutral: calm, watchful, flat little mouth.
+Cell 2: shrug: eyes looking aside, one shoulder raised, unimpressed.
+Cell 3: small smile: a tiny real smile, soft eyes.
+Cell 4: startled: wide eyes, small open mouth, raised shoulders.
+Cell 5: frozen: wide empty eyes and NO mouth drawn at all, pale, very still.
+Cell 6: crying smile: tears rolling down while smiling warmly.
+Composition: each bust centered in its cell, facing the viewer in three-quarter front view, generous empty space between the busts, nothing overlapping, shoulders cropped softly at the bottom of each bust.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, frames, backgrounds, scenery, speech bubbles, extra objects, extra characters.

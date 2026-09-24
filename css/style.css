@@ -1,0 +1,154 @@
+/* Page chrome only: the whole game is drawn on the canvas. */
+
+@font-face {
+  font-family: 'PatrickHand';
+  src: url('../assets/fonts/PatrickHand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'GochiHand';
+  src: url('../assets/fonts/GochiHand-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #17131f;
+  color: #fbf5e6;
+  font-family: 'PatrickHand', 'Comic Sans MS', cursive;
+  -webkit-user-select: none;
+  user-select: none;
+  overscroll-behavior: none;
+}
+
+/* a dark desk with a faint pencil cross-hatch around the letterboxed page */
+body {
+  background-image:
+    repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.018) 0 2px, transparent 2px 9px),
+    repeating-linear-gradient(-45deg, rgba(255, 255, 255, 0.012) 0 2px, transparent 2px 11px),
+    radial-gradient(ellipse at center, #241d30 0%, #120f19 100%);
+}
+
+#stage {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game {
+  display: block;
+  /* letterbox: largest 4:3 box that fits the window */
+  width: min(100vw, calc(100vh * 4 / 3));
+  height: min(100vh, calc(100vw * 3 / 4));
+  image-rendering: auto;
+  background: #000;
+  outline: none;
+  cursor: default;
+  box-shadow: 0 0 0 2px rgba(251, 245, 230, 0.06), 0 18px 60px rgba(0, 0, 0, 0.55);
+  touch-action: none;
+}
+
+#font-warmup {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+#font-warmup .f-body { font-family: 'PatrickHand'; }
+#font-warmup .f-title { font-family: 'GochiHand'; }
+
+.noscript {
+  position: fixed;
+  inset: auto 0 12px 0;
+  text-align: center;
+}
+
+/* ---------------------------------------------------------------- on-screen controls (js/core/touch.js) */
+#touch-toggle {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  z-index: 20;
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  border: 2px solid rgba(43, 36, 51, 0.55);
+  background: rgba(251, 245, 230, 0.75);
+  color: #2b2433;
+  font: 20px/34px sans-serif;
+  cursor: pointer;
+  opacity: 0.55;
+}
+#touch-toggle:hover { opacity: 1; }
+
+#touch-controls {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 15;
+  pointer-events: none;
+  font-family: 'PatrickHand', sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}
+#touch-controls.shown { display: block; }
+
+#touch-controls .tc {
+  position: fixed;
+  pointer-events: auto;
+  touch-action: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  border: 2.5px solid rgba(43, 36, 51, 0.75);
+  background: rgba(251, 245, 230, 0.72);
+  color: #2b2433;
+  font-size: 24px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+  opacity: 0.85;
+  cursor: pointer;
+}
+#touch-controls .tc.held { background: rgba(232, 132, 58, 0.85); transform: scale(0.94); }
+
+/* d-pad, bottom left */
+#touch-controls .dpad { width: 58px; height: 58px; border-radius: 14px; font-size: 18px; }
+#touch-controls .dpad.up    { left: 82px;  bottom: 150px; }
+#touch-controls .dpad.down  { left: 82px;  bottom: 22px; }
+#touch-controls .dpad.left  { left: 18px;  bottom: 86px; }
+#touch-controls .dpad.right { left: 146px; bottom: 86px; }
+
+/* face buttons, bottom right */
+#touch-controls .face.a   { right: 22px;  bottom: 78px; width: 70px; height: 70px; }
+#touch-controls .face.b   { right: 104px; bottom: 30px; }
+#touch-controls .face.run { right: 104px; bottom: 112px; font-size: 18px; width: 56px; height: 56px; }
+#touch-controls .face.c   { right: 30px;  bottom: 166px; width: 52px; height: 52px; font-size: 20px; }
+
+@media (max-width: 700px) {
+  #touch-controls .tc { width: 52px; height: 52px; font-size: 20px; }
+  #touch-controls .dpad { width: 50px; height: 50px; }
+  #touch-controls .dpad.up    { left: 70px;  bottom: 126px; }
+  #touch-controls .dpad.down  { left: 70px;  bottom: 16px; }
+  #touch-controls .dpad.left  { left: 14px;  bottom: 71px; }
+  #touch-controls .dpad.right { left: 126px; bottom: 71px; }
+  #touch-controls .face.a   { right: 16px; bottom: 64px; width: 60px; height: 60px; }
+  #touch-controls .face.b   { right: 86px; bottom: 22px; }
+  #touch-controls .face.run { right: 86px; bottom: 96px; width: 48px; height: 48px; font-size: 16px; }
+  #touch-controls .face.c   { right: 24px; bottom: 140px; width: 46px; height: 46px; }
+}

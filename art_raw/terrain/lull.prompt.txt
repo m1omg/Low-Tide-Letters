@@ -1,0 +1,16 @@
+Use case: stylized-concept
+Asset type: ground material swatch sheet for a top-down RPG
+Subject: a strict grid of 3 rows x 3 columns of equal square swatches of flat ground material, separated by thin white gutters, reading order left to right and top to bottom. Each swatch shows ONE material seen straight down from directly above, completely flat, filling its whole square evenly right up to the edge of the swatch; no perspective, no horizon, no objects lying on it, no edges or corners of the material. A regular pattern shows at least three full repetitions across its swatch.
+Cell 1: pale dry sand, warm cream-yellow, finely stippled, with a scatter of tiny broken shells.
+Cell 2: clear shallow turquoise water over pale sand: bright turquoise with light ripple caustics and the sand colour showing through.
+Cell 3: a floor made of overlapping cream envelopes lying flat, their triangular back-flaps and seams forming a soft irregular patchwork, warm paper cream.
+Cell 4: deep dark blue-green sea water, opaque, with darker drifting bands and a few pale foam specks.
+Cell 5: rough reef rock crusted with pink and coral-orange coral nubs and small barnacles, seen from directly above.
+Cell 6: a coral floor of close-packed soft pastel coral: pink, cream and pale turquoise rounded lobes fitted together like a carpet.
+Cell 7: ruled ledger paper: pale greenish-cream paper with evenly spaced horizontal pale blue ruled lines and one faint red vertical margin line, six ruled lines across the swatch.
+Cell 8: a perfectly still mirror-calm water surface, pale silvery grey-blue, almost featureless with a very faint soft marbling and no ripples.
+Cell 9: cut stone stair-slabs seen from above: large rectangular pale grey-cream blocks with sandy joints and worn rounded corners, two blocks across the swatch.
+Style/medium: hand-drawn coloured pencil and ink texture from a child's sketchbook, visible pencil hatching and waxy crayon grain, soft pastel colours, wobbly hand-drawn detail lines. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, perspective, horizon, cast shadows, objects lying on the ground, characters.
+
+Image format: square, aspect ratio 1:1.

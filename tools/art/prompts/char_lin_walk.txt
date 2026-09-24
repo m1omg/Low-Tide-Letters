@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: 2D top-down RPG character walking sprite sheet
+Subject: the SAME character drawn 12 times in a strict grid of 4 rows x 3 columns with equal-sized cells. The character is a tall thin 13-year-old girl with very straight posture: pale brown skin, a very long black plait reaching her waist tied with a moss-green ribbon, round wire glasses, a pencil behind her ear; a navy school cardigan with tan elbow patches over a white collared shirt; a pleated charcoal skirt; grey knee socks with the left one slipped down; black buckle shoes; she hugs a wooden clipboard to her chest. Chibi proportions, about 2.8 heads tall.
+Row 1: facing the viewer (front view), 3 walking frames: left foot forward, standing neutral, right foot forward.
+Row 2: facing LEFT (side view), 3 walking frames.
+Row 3: facing RIGHT (side view), 3 walking frames.
+Row 4: facing AWAY from the viewer (back view), 3 walking frames.
+Composition: every figure the same size, full body from head to feet, centered in its cell, feet on the same baseline within each row, generous empty space between figures, nothing overlapping, identical outfit and colors in every frame.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, ground shadows, floor, scenery, extra objects, extra characters.

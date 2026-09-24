@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: full-screen story illustration for an RPG
+Subject: a wide moonlit beach at night with the sea drawn back for miles, leaving a vast pale wet seabed. In the centre of the picture a flight of stone steps descends INTO the seabed and down out of sight, a faint turquoise glow rising from the bottom of it. At the near top of the steps, seen small and from behind, three children stand looking down: a girl in a too-big teal duffel coat with a stubby up-ponytail, a stocky boy in a bright orange life vest, and a tall girl with a very long black plait. A white string trails from the first girl's hip down into the glow. The upper left quarter of the picture is calm empty sky with nothing in it.
+Composition: a single complete illustration in 4:3 landscape format, filling the whole picture to the edges, no border and no frame, no empty margin, one clear focal point.
+Style/medium: hand-drawn coloured pencil and ink storybook illustration on warm cream paper, slightly wobbly dark pencil outlines, soft pastel colours with visible pencil hatching and waxy crayon grain, flat gentle lighting with no cast shadows, tender and a little lonely. Children are drawn cute with big heads, simple dot eyes and rosy crayon cheeks.
+Avoid: any text, letters, numbers, labels, watermarks, signatures, grid lines, borders, frames, speech bubbles, photorealism, 3D rendering, anime style, glossy digital shading.
+
+Image format: landscape orientation, aspect ratio 4:3 (wider than tall).

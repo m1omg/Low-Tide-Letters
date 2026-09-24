@@ -1,0 +1,5 @@
+Use case: stylized-concept
+Asset type: decorative emblem for the title screen of a hand-drawn RPG
+Subject: a single decorative emblem with NO writing of any kind: a dented tin can lying on its side with a taut white string running out of it and looping into a wide horizontal arc, and along the string three small pieces of frosted sea glass in red, amber and green strung like beads; below the arc a thin wavy pencil line of tide water and two tiny shells. Centred, symmetrical enough to sit above a title, with wide empty space around it.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, words, labels, numbers, watermarks, signatures, grid lines, borders, frames, cast shadows, background scenery, extra objects.

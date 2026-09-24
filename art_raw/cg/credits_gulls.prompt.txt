@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: full-screen story illustration for an RPG
+Subject: a wide cream sky filled with dozens of small folded-paper seagulls flying upward and to the right, each folded from a slightly different paper: lined notepaper, an envelope, a postcard, pale blue airmail, ledger paper. They get smaller towards the top right corner. Nothing else in the picture but soft pencil clouds. Hopeful and light.
+Composition: a single complete illustration in 4:3 landscape format, filling the whole picture to the edges, no border and no frame, no empty margin, one clear focal point.
+Style/medium: hand-drawn coloured pencil and ink storybook illustration on warm cream paper, slightly wobbly dark pencil outlines, soft pastel colours with visible pencil hatching and waxy crayon grain, flat gentle lighting with no cast shadows, tender and a little lonely. Children are drawn cute with big heads, simple dot eyes and rosy crayon cheeks.
+Avoid: any text, letters, numbers, labels, watermarks, signatures, grid lines, borders, frames, speech bubbles, photorealism, 3D rendering, anime style, glossy digital shading.
+
+Image format: landscape orientation, aspect ratio 4:3 (wider than tall).

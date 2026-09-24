@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: full-screen story illustration for an RPG
+Subject: inside a flooded office room: a tall girl with a very long black plait and round glasses has fallen asleep sitting against a leaning stack of wire in-trays, her glasses crooked, a bright orange life vest laid over her like a blanket. In the foreground a girl in a teal duffel coat holds one finger to her lips towards a little cream paper boat with stick legs, whose top flap is already open to speak. Soft green-blue light, very quiet, gently funny.
+Composition: a single complete illustration in 4:3 landscape format, filling the whole picture to the edges, no border and no frame, no empty margin, one clear focal point.
+Style/medium: hand-drawn coloured pencil and ink storybook illustration on warm cream paper, slightly wobbly dark pencil outlines, soft pastel colours with visible pencil hatching and waxy crayon grain, flat gentle lighting with no cast shadows, tender and a little lonely. Children are drawn cute with big heads, simple dot eyes and rosy crayon cheeks.
+Avoid: any text, letters, numbers, labels, watermarks, signatures, grid lines, borders, frames, speech bubbles, photorealism, 3D rendering, anime style, glossy digital shading.
+
+Image format: landscape orientation, aspect ratio 4:3 (wider than tall).

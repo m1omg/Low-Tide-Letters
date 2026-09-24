@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: 2D top-down RPG character walking sprite sheet
+Subject: the SAME character drawn 12 times in a strict grid of 4 rows x 3 columns with equal-sized cells. Grown-up proportions for this cute style, about 3 heads tall, clearly taller and heavier than a child. The character is an old seaside townswoman: small and round, white permed hair, round spectacles, a mauve quilted coat over a floral dress, thick brown stockings, sensible brown shoes, and she pulls a red tartan shopping trolley on two little wheels beside her in every frame.
+Row 1: facing the viewer (front view), 3 walking frames: left foot forward, standing neutral, right foot forward.
+Row 2: facing LEFT (side view), 3 walking frames.
+Row 3: facing RIGHT (side view), 3 walking frames.
+Row 4: facing AWAY from the viewer (back view), 3 walking frames.
+Composition: every figure the same size, full body from head to feet, centered in its cell, feet on the same baseline within each row, generous empty space between figures, nothing overlapping, identical outfit and colors in every frame.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, ground shadows, floor, scenery, extra objects, extra characters.

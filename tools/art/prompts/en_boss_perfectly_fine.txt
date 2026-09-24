@@ -1,0 +1,6 @@
+Use case: stylized-concept
+Asset type: single enemy illustration for the battle screen of a turn-based RPG
+Subject: a teetering tower of crisply ironed folded laundry and tablecloths, twice a child's height, swaying slightly; a black flat-iron hanging as one hand on the left and a feather duster as the other hand on the right; on top, a round smiling paper-plate mask held up on a stick, its painted smile crossed by fine hairline cracks; small curls of steam escaping between the folded layers. Pastel whites, creams and washed-out blues.
+Composition: ONE single creature and nothing else, seen straight from the front at eye level, complete from top to bottom, standing upright, centered, filling the frame with a small even margin all round, on a completely empty background.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, ground, floor, scenery, background, extra objects, extra characters.

@@ -1,0 +1,21 @@
+# Node (the test runner's puppeteer install)
+tools/test/node_modules/
+tools/test/package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# generated while working: contact sheets, scratch, logs and test screenshots
+art_raw/_preview/
+art_raw/_tmp/
+art_raw/*.log
+art_raw/_batch_log.jsonl
+tools/test/shots/
+tools/music/_render/
+tools/sfx/_render/
+
+# editor / tooling
+.claude/
+.DS_Store
+Thumbs.db

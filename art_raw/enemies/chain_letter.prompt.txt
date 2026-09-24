@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: single enemy illustration for the battle screen of a turn-based RPG
+Subject: a sea-snake made of a linked paper chain of interlocking loops in school-craft colours, each loop carrying a scribbled squiggle, rearing up in an S-curve, a forked paper tongue, and dramatic doom-laden eyebrows over worried eyes.
+Composition: ONE single creature and nothing else, seen straight from the front at eye level, complete from top to bottom, standing upright, centered, filling the frame with a small even margin all round, on a completely empty background.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, ground, floor, scenery, background, extra objects, extra characters.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: portrait orientation, aspect ratio 3:4 (taller than wide).

@@ -1,0 +1,50 @@
+[
+ {
+  "name": "chars/wren_walk",
+  "prompt_file": "tools/art/prompts/char_wren_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "chars/odo_walk",
+  "prompt_file": "tools/art/prompts/char_odo_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "chars/lin_walk",
+  "prompt_file": "tools/art/prompts/char_lin_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "chars/pim_walk",
+  "prompt_file": "tools/art/prompts/char_pim_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "faces/wren_sheet",
+  "prompt_file": "tools/art/prompts/face_wren_sheet.txt",
+  "aspect": "landscape",
+  "transparent": true
+ },
+ {
+  "name": "faces/odo_sheet",
+  "prompt_file": "tools/art/prompts/face_odo_sheet.txt",
+  "aspect": "landscape",
+  "transparent": true
+ },
+ {
+  "name": "faces/lin_sheet",
+  "prompt_file": "tools/art/prompts/face_lin_sheet.txt",
+  "aspect": "landscape",
+  "transparent": true
+ },
+ {
+  "name": "faces/pim_sheet",
+  "prompt_file": "tools/art/prompts/face_pim_sheet.txt",
+  "aspect": "landscape",
+  "transparent": true
+ }
+]

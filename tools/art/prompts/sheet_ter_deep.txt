@@ -1,0 +1,14 @@
+Use case: stylized-concept
+Asset type: ground material swatch sheet for a top-down RPG
+Subject: a strict grid of 3 rows x 3 columns of equal square swatches of flat ground material, separated by thin white gutters, reading order left to right and top to bottom. Each swatch shows ONE material seen straight down from directly above, completely flat, filling its whole square evenly right up to the edge of the swatch; no perspective, no horizon, no objects lying on it, no edges or corners of the material. A regular pattern shows at least three full repetitions across its swatch.
+Cell 1: curved stone steps of a spiral staircase seen from above, warm grey wedge-shaped stone slabs fanning out, worn and slightly damp.
+Cell 2: dark varnished floorboards of an old lighthouse, deep brown wood running top to bottom, four boards across the swatch, black seams and brass nail heads.
+Cell 3: the inner wall of a lighthouse: teal-painted plaster with a curved grain, worn patches showing paler undercoat, a faint vertical brush texture.
+Cell 4: soft pale fog lying on the ground, a cloudy milky grey-white with gentle drifting swirls and almost no detail.
+Cell 5: a flat surface of very dark blue-black spilled ink, near black with faint darker swirls and one or two tiny paler bubbles.
+Cell 6: a pearl floor: smooth pearl-white with a faint soft rainbow sheen and gentle concentric growth rings, very pale and clean.
+Cell 7: a nacre wall: thick ridged mother-of-pearl in shell pink, cream and lilac, with wavy parallel growth ridges and a soft iridescent shimmer.
+Cell 8: an old kitchen lino floor in a check pattern of cream and faded sage-green squares, four squares across the swatch, scuffed and slightly worn at the square corners.
+Cell 9: plain flat warm cream paper with nothing on it at all, even crayon grain, no pattern.
+Style/medium: hand-drawn coloured pencil and ink texture from a child's sketchbook, visible pencil hatching and waxy crayon grain, soft pastel colours, wobbly hand-drawn detail lines. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, perspective, horizon, cast shadows, objects lying on the ground, characters.

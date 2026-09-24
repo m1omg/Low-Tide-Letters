@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: character expression sheet for RPG dialogue portraits
+Subject: 4 bust portraits (head and shoulders) in a strict grid of 2 rows x 2 columns with equal-sized cells, reading order left to right, top to bottom. The character is Pop, a 74-year-old grandfather: bushy white moustache, crinkled kind eyes, navy fisherman's cap, oatmeal cream cable-knit jumper, a screwdriver behind his right ear. Drawn with grown-up proportions, a big head but an older face. Same outfit, same hair, same colors, same scale and same framing in every cell; only the facial expression and small pose details change.
+Cell 1: neutral: calm and unhurried, gentle steady look.
+Cell 2: twinkle: eyes crinkled almost shut with fond amusement, moustache lifted by a smile.
+Cell 3: concerned: brows drawn together, mouth hidden under the moustache, looking slightly down.
+Cell 4: whistling: lips pursed under the moustache, eyes softly closed, head tilted back a little.
+Composition: each bust centered in its cell, facing the viewer in three-quarter front view, generous empty space between the busts, nothing overlapping, shoulders cropped softly at the bottom of each bust.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, grid lines, borders, frames, backgrounds, scenery, speech bubbles, extra objects, extra characters.

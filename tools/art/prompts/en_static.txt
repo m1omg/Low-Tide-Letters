@@ -1,0 +1,6 @@
+Use case: stylized-concept
+Asset type: single enemy illustration for the battle screen of a turn-based RPG
+Subject: a rounded 1950s valve radio standing on four stubby legs, its glowing amber tuning dial used as a single eye, a cloth speaker grille for a mouth out of which leaks a scribble of pencil static, a bent wire aerial on top, and a crust of barnacles on one side.
+Composition: ONE single creature and nothing else, seen straight from the front at eye level, complete from top to bottom, standing upright, centered, filling the frame with a small even margin all round, on a completely empty background.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, chibi proportions with big heads, simple dot eyes and rosy crayon cheeks. Flat even lighting.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, ground, floor, scenery, background, extra objects, extra characters.

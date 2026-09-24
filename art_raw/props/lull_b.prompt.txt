@@ -1,0 +1,18 @@
+Use case: stylized-concept
+Asset type: prop sheet for the maps of a top-down RPG
+Subject: nine separate objects arranged in a strict grid of 3 rows x 3 columns, one object per cell, reading order left to right and top to bottom. Classic JRPG three-quarter top-down view: every object seen slightly from above and from the front, upright, complete from top to bottom. Wide empty space between the objects, nothing touching or overlapping its neighbours, every object drawn as a single complete piece. Relative sizes roughly as described (the number of tiles tells you how wide it is compared to the others). 
+Cell 1: a big horn coral, 3 tiles wide and tall: a cluster of pink coral trumpets shaped like old gramophone horns growing from one base, all opening in different directions.
+Cell 2: a small horn coral, 1 tile wide: one single leaning pink gramophone-horn coral trumpet on a short stalk.
+Cell 3: a speaking-tube horn pipe, 1 tile wide: a brass elbow joint of ship's speaking tube standing up out of the ground, its bell mouth turned to one side, verdigris patches.
+Cell 4: a grandfather clock half buried in sand at a tilt, 1 tile wide and tall: a dark wooden long-case clock with a round blank white face and crusted barnacles along one side.
+Cell 5: a stack of office in-trays, 1 tile wide and tall: four wire mesh letter trays stacked into a leaning tower like a sea stack, loose papers lifting from them.
+Cell 6: an ironing board, 2 tiles wide: a padded cream-covered ironing board standing on its splayed metal legs, a black flat-iron resting on the end.
+Cell 7: an old vending machine, 1 tile wide and tall: a rounded cream and mint-green machine with a glass front, one big red button and a small hand-written card taped on showing only a wavy squiggle.
+Cell 8: a washing line, 3 tiles wide: two wooden posts, one at each end, with a slack rope between them and three pressed white sheets pegged to it.
+Cell 9: a round floor hatch standing open, 2 tiles wide, seen from above and in front: a circular rim in the ground, the top of a spiral stone stair going down into it, warm lamp light coming up.
+Style/medium: hand-drawn colored pencil and ink doodle from a child's sketchbook, slightly wobbly dark pencil outlines, soft pastel colors with visible pencil hatching and waxy crayon texture, cute melancholic storybook feeling, drawn on warm cream paper. Flat even lighting, no cast shadows.
+Avoid: any text, letters, labels, numbers, watermarks, grid lines, borders, frames, cast shadows, background scenery, extra objects.
+
+Background: fully transparent (PNG with a real alpha channel); nothing behind or under the subject, no paper, no ground, no cast shadow.
+
+Image format: square, aspect ratio 1:1.

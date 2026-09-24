@@ -1,0 +1,9 @@
+{
+  "name": "game-test-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Headless browser smoke tests for the game (dev only, not needed to play)",
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}

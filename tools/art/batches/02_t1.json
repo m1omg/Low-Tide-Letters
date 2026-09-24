@@ -1,0 +1,146 @@
+[
+ {
+  "name": "terrain/shore",
+  "prompt_file": "tools/art/prompts/sheet_ter_shore.txt",
+  "aspect": "square",
+  "transparent": false
+ },
+ {
+  "name": "props/shore",
+  "prompt_file": "tools/art/prompts/sheet_obj_shore.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "chars/pop_walk",
+  "prompt_file": "tools/art/prompts/char_pop_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "terrain/lull",
+  "prompt_file": "tools/art/prompts/sheet_ter_lull.txt",
+  "aspect": "square",
+  "transparent": false
+ },
+ {
+  "name": "props/home",
+  "prompt_file": "tools/art/prompts/sheet_obj_home.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "bb/lull_day",
+  "prompt_file": "tools/art/prompts/bb_lull_day.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "enemies/thank_you_card",
+  "prompt_file": "tools/art/prompts/en_thank_you_card.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/sorry_crab",
+  "prompt_file": "tools/art/prompts/en_sorry_crab.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "props/lull_a",
+  "prompt_file": "tools/art/prompts/sheet_obj_lull_a.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/boss_postmaster_gull",
+  "prompt_file": "tools/art/prompts/en_boss_postmaster_gull.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "cg/prologue_glass",
+  "prompt_file": "tools/art/prompts/cg_prologue_glass.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/tide_steps",
+  "prompt_file": "tools/art/prompts/cg_tide_steps.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "enemies/reply_all",
+  "prompt_file": "tools/art/prompts/en_reply_all.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/toot",
+  "prompt_file": "tools/art/prompts/en_toot.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "props/lull_b",
+  "prompt_file": "tools/art/prompts/sheet_obj_lull_b.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/listworm",
+  "prompt_file": "tools/art/prompts/en_listworm.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "bb/undertow",
+  "prompt_file": "tools/art/prompts/bb_undertow.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "enemies/echo",
+  "prompt_file": "tools/art/prompts/en_echo.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/boss_perfectly_fine",
+  "prompt_file": "tools/art/prompts/en_boss_perfectly_fine.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "bb/dark_bedroom",
+  "prompt_file": "tools/art/prompts/bb_dark_bedroom.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "enemies/pearl_drip",
+  "prompt_file": "tools/art/prompts/en_pearl_drip.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/boss_nacre",
+  "prompt_file": "tools/art/prompts/en_boss_nacre.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "enemies/other_can",
+  "prompt_file": "tools/art/prompts/en_other_can.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "cg/ending_sent",
+  "prompt_file": "tools/art/prompts/cg_ending_sent.txt",
+  "aspect": "landscape",
+  "transparent": false
+ }
+]

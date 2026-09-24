@@ -1,0 +1,62 @@
+[
+ {
+  "name": "props/shore_b",
+  "prompt_file": "tools/art/prompts/sheet_obj_shore_b.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "chars/robin_walk",
+  "prompt_file": "tools/art/prompts/char_robin_walk.txt",
+  "aspect": "portrait",
+  "transparent": true
+ },
+ {
+  "name": "enemies/draft_47",
+  "prompt_file": "tools/art/prompts/en_draft_47.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "bb/blare_reef",
+  "prompt_file": "tools/art/prompts/bb_blare_reef.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "bb/slack_water",
+  "prompt_file": "tools/art/prompts/bb_slack_water.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/lin_asleep",
+  "prompt_file": "tools/art/prompts/cg_lin_asleep.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/den_jar",
+  "prompt_file": "tools/art/prompts/cg_den_jar.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "cg/credits_gulls",
+  "prompt_file": "tools/art/prompts/cg_credits_gulls.txt",
+  "aspect": "landscape",
+  "transparent": false
+ },
+ {
+  "name": "icons/items",
+  "prompt_file": "tools/art/prompts/sheet_icon_items.txt",
+  "aspect": "square",
+  "transparent": true
+ },
+ {
+  "name": "ui/logo",
+  "prompt_file": "tools/art/prompts/ui_logo.txt",
+  "aspect": "landscape",
+  "transparent": true
+ }
+]
